@@ -1,0 +1,12 @@
+.col-sm-3 {
+text-align: center;
+color: rgb(72,72,72);
+font-family: "Lucida Console", "Courier New", "monospace";"
+}
+
+.need {
+  text-align: center;
+  color: red;
+  font-weight: bold;
+  font-family: "Lucida Console", "Courier New", "monospace";"
+}
