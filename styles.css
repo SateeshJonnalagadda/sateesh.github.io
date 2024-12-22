@@ -16,7 +16,7 @@ body {
 /* Header & Navigation */
 header {
   background-color: #000;
-  color: #000000;
+  color: #eee;
   padding: 20px 0;
 }
 
@@ -155,7 +155,7 @@ form button:hover {
 /* Footer */
 footer {
   background-color: #000;
-  color: #000;
+  color: #eee;
   text-align: center;
   padding: 20px;
   margin-top: 40px;
