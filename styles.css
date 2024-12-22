@@ -16,7 +16,7 @@ body {
 /* Header & Navigation */
 header {
   background-color: #333;
-  color: #fff;
+  color: #0000000;
   padding: 20px 0;
 }
 
@@ -31,7 +31,7 @@ nav ul li {
 }
 
 nav ul li a {
-  color: #fff;
+  color: #000000;
   text-decoration: none;
   font-size: 1.2em;
 }
@@ -55,7 +55,7 @@ section {
 
 /* About Section */
 #about {
-  background-color: #fff;
+  background-color: #000000;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   margin-bottom: 40px;
 }
@@ -67,7 +67,7 @@ section {
 
 /* Portfolio Section */
 #portfolio {
-  background-color: #f8f8f8;
+  background-color: #000000;
 }
 
 #portfolio h1 {
@@ -84,7 +84,7 @@ section {
 
 .project {
   flex: 1;
-  background-color: #fff;
+  background-color: #000000;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   padding: 20px;
   text-align: center;
@@ -109,7 +109,7 @@ section {
 
 /* Contact Section */
 #contact {
-  background-color: #fff;
+  background-color: #000000;
 }
 
 #contact h1 {
