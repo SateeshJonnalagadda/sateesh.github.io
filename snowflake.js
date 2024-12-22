@@ -26,7 +26,7 @@ for (let i = 0; i < snowflakeCount; i++) {
 function drawSnowflake(snowflake) {
   ctx.beginPath();
   ctx.arc(snowflake.x, snowflake.y, snowflake.radius, 0, 2 * Math.PI);
-  ctx.fillStyle = '#fff';
+  ctx.fillStyle = '#000';
   ctx.fill();
 }
 
