@@ -10,13 +10,13 @@ body {
   font-family: Arial, sans-serif;
   line-height: 1.6;
   background-color: #000000;
-  color: #333;
+  color: #fff;
 }
 
 /* Header & Navigation */
 header {
-  background-color: #333;
-  color: #0000000;
+  background-color: #fff;
+  color: #000000;
   padding: 20px 0;
 }
 
@@ -104,7 +104,7 @@ section {
 
 .project p {
   font-size: 1.1em;
-  color: #666;
+  color: #fff;
 }
 
 /* Contact Section */
@@ -141,7 +141,7 @@ form textarea {
 form button {
   width: 100%;
   padding: 12px;
-  background-color: #333;
+  background-color: #fff;
   color: #fff;
   border: none;
   font-size: 1.2em;
@@ -154,8 +154,8 @@ form button:hover {
 
 /* Footer */
 footer {
-  background-color: #333;
-  color: #fff;
+  background-color: #fff;
+  color: #000;
   text-align: center;
   padding: 20px;
   margin-top: 40px;
